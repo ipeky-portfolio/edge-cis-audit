@@ -1,4 +1,4 @@
-# CIS-ähnliche Controls – Microsoft Edge
+# Controls – Microsoft Edge
 
 | ID      | Kategorie                     | Beschreibung                                         | Erwartet                               | Prüfmethode |
 |---------|-------------------------------|-----------------------------------------------------|---------------------------------------|-------------|
