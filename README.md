@@ -1,9 +1,9 @@
-# Microsoft Edge Security Audit – CIS-ähnliche Benchmarks
+# Microsoft Edge Security Audit
 
 ## Übersicht
 
 Dieses Projekt zeigt ein Security-Audit für Microsoft Edge.  
-Die Bewertung basiert auf Best Practices für Browser-Härtung, wie sie in CIS Benchmarks für Webbrowser empfohlen werden.
+Die Bewertung basiert auf Best Practices für Browser-Härtung.
 
 ## Ziele
 
